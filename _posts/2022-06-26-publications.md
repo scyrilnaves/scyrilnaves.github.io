@@ -2,9 +2,9 @@
 layout: post
 title: Publications
 subtitle: My Research Work
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/yosemite.jpg
+thumbnail-img: /assets/img/natur.jpg
+share-img: /assets/img/yosemite.jpg
 tags: [books, test]
 ---
 **Luc Gerrits, Cyril Naves Samuel, Roland Kromes, François Verdier, Severine Glock, and Patricia Guitton-Ouhamou. 2021. Experimental Scalability Study of Consortium Blockchains with BFT Consensus for IoT Automotive Use Case. In Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems (SenSys '21). Association for Computing Machinery, New York, NY, USA, 492–498. https://doi.org/10.1145/3485730.3493374**
