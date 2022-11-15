@@ -25,22 +25,32 @@ WORK EXPERIENCE
 Achievements:
 
   Awarded Best Paper and Best Presentation Award for my work: Automotive Data Certification Problem: A View on Effective Blockchain Architectural Solutions at 2020 11th IEEE Annual Information Technology, Electronics and Mobile Communication Conference
+  
   Published and presented my research work : Choice of Ethereum Clients for Private Blockchain: Assessment from Proof of Authority Perspective at 2021 IEEE International Conference on Blockchain and Cryptocurrency
+  
   Published and presented my research work: Experimental Scalability Study of Consortium Blockchains with BFT Consensus for IoT Automotive Use Case at SenSys '21: The 19th ACM Conference on Embedded Networked Sensor Systems
 
   * September 2019 – January 2020
     Research Engineer at Renault Software Factory, Nice Cote D'Azur
-      Implemented the Test bed of Distributed Ledger Technology for cloud Architecture in Microsoft Azure and a private cloud partner TAS group. Test Bed was designed for an actual Proof of Concept for mobility system involving blockchain. Test validation was performed and a detailed research analysis was prepared which was also published in two reputed International conferences.
+      Implemented the Test bed of Distributed Ledger Technology for cloud Architecture in Microsoft Azure and a private cloud partner TAS group. Test Bed was designed for an actual Proof of Concept for mobility system involving blockchain. 
+      
+      Test validation was performed and a detailed research analysis was prepared which was also published in two reputed International conferences.
 
   * November 2014 – August 2017
      Software Engineer at AstraZeneca PLC, Chennai
-      Designed Information Systems for the Research Division of Drug Discovery Process during initial Discovery and Development Phase especially for invitro  phase. Was part of the team involved in the implementation of Screener systems for assay analysis, High Throughput Screening. It included in designing a data pool merging existing data warehouses to present a unified and normalised data representation for the scientists at Sweden and United Kingdom. Involved with the vendor of Assay Screener Technology in negotiating the onboarding of the software. It needed understanding the requirements, building the connectors to merge the existing system and the evangelisation of the system for the scientist community. In other words, the product was built to streamline the data flow from various inputs, build analysis tools and offer them in a scientific format for the scientists to work upon and take critical decisions in the drug discovery stage.
+      Designed Information Systems for the Research Division of Drug Discovery Process during initial Discovery and Development Phase especially for invitro  phase. Was part of the team involved in the implementation of Screener systems for assay analysis, High Throughput Screening. 
+      
+      It included in designing a data pool merging existing data warehouses to present a unified and normalised data representation for the scientists at Sweden and United Kingdom. Involved with the vendor of Assay Screener Technology in negotiating the onboarding of the software. It needed understanding the requirements, building the connectors to merge the existing system and the evangelisation of the system for the scientist community. 
+      
+      In other words, the product was built to streamline the data flow from various inputs, build analysis tools and offer them in a scientific format for the scientists to work upon and take critical decisions in the drug discovery stage.
 Achievements: 
 Awarded Star Performer for Design and Implementation of  Knowledge Repository and Data Warehouse for Scientific Articles and Research Contributions for Drug Discovery.
 
   * December 2012 – August 2014
     Software Engineer at Tata Consultancy Service for KLM Airlines, Chennai
-      Designed and Implemented Middleware for critical aviation system involving passenger management, Checkin, Booking and payment services for KLM Netherlands.  Worked with the client in the transition from classical Departure Control Systems like Altea, CODECO to Amadeus. Also helped in the merging of business and flight sharing from Air France due to the merger of the two airline companies. Involved from the Use Case formulation, Software Design, Implementation, Validation and final deployment of go live version.
+      Designed and Implemented Middleware for critical aviation system involving passenger management, Checkin, Booking and payment services for KLM Netherlands.  Worked with the client in the transition from classical Departure Control Systems like Altea, CODECO to Amadeus. 
+      
+      Also helped in the merging of business and flight sharing from Air France due to the merger of the two airline companies. Involved from the Use Case formulation, Software Design, Implementation, Validation and final deployment of go live version.
 Achievements:
 Awarded Technical Excellence for Project Contribution and Java Coding Standards.
 
