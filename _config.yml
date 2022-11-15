@@ -21,10 +21,12 @@ author: Cyril Naves
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Publications: "https://scyrilnaves.github.io/2022-06-26-publications/"
+  Talks: "https://scyrilnaves.github.io/2022-04-11-talks/"
+  #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"#
     #- Learn markdown: "https://www.markdowntutorial.com/"#
-  Author's home: "https://scyrilnaves.github.io/"
+  #Author's home: "https://scyrilnaves.github.io/"
 
 ################
 # --- Logo --- #
