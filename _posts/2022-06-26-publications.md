@@ -3,7 +3,7 @@ layout: post
 title: Publications
 subtitle: My Research Work
 cover-img: /assets/img/yosemite.jpg
-thumbnail-img: /assets/img/natur.jpg
+thumbnail-img: /assets/img/natur.png
 share-img: /assets/img/yosemite.jpg
 tags: [books, test]
 ---
