@@ -3,6 +3,7 @@ layout: page
 title: About me
 subtitle: Cyril Naves
 ---
+![](https://drive.google.com/file/d/1AUDnYsOboXufSgQ-m9IWoo6Lb5lLeTyP/view?usp=sharing){: .mx-auto.d-block :}
 
 I am Cyril Naves a doctoral research in a joint project between Renault Software Factory and Universite Cote D 'Azur
 
