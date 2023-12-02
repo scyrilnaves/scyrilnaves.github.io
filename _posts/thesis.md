@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Experience
+title: Thesis
 subtitle: Summary of My Profession and Co-Curricular Works
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
